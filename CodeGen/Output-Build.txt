@@ -1,0 +1,12 @@
+﻿1>------ Build started: Project: CodeGen, Configuration: Debug Any CPU ------
+1>  CodeGen -> D:\workspace\Visual Studio\CodeGen\CodeGen\bin\Debug\CodeGen.exe
+Building CodeGen...
+2>------ Publish started: Project: CodeGen, Configuration: Debug Any CPU ------
+2>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(4934,5): warning MSB3146: Item 'Windows Installer 4.5' is required by '.NET Framework 3.5 SP1', but was not included.
+Connecting to 'E:\~temp Setups\SW Builds\'...
+Publishing files...
+Warning: Publishing file 'CodeGen.pdb' that may contain sensitive or proprietary information.
+Publish success.
+E:\~temp Setups\SW Builds\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
